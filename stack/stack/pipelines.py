@@ -8,4 +8,7 @@
 
 class BallotPipeline(object):
     def process_item(self, item, spider):
+        if spider.name is "spyballot":
+            item['inftype'] = item['inftype'].capitalize().replace(',', '').replace('.', '')
+            item['infname'] = item['infname'].replace(',', '').replace('.', '')
         return item

@@ -24,7 +24,7 @@ class InfluencerSpider(CrawlSpider):
             item_name = table.xpath('.//tr//li/a/text()').extract()
             while len(item_name) > 0:
                 item = InfluencerItem()
-                item['inftype'] = itypeh2 if itypeh2 != "Political leaning" else itypeh3
+                item['inftype'] = itypeh2 if itypeh2 != "Political leaning" else itypeh3[0]
                 item['infname'] = item_name.pop()
                 
                 yield item

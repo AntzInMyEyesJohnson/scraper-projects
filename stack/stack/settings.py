@@ -14,8 +14,8 @@ BOT_NAME = 'ballotbot'
 SPIDER_MODULES = ['stack.spiders']
 NEWSPIDER_MODULE = 'stack.spiders'
 
-FEED_FORMAT = 'jsonlines'
-FEED_URI = 'file:/C:/Web Scraper/data/%(name)s/%(time)s.json'
+FEED_FORMAT = 'csv'
+FEED_URI = 'file:/C:/Scraper Projects/Web Scraper/data/%(name)s/%(time)s.csv'
 FEED_EXPORT_FIELDS = ["infname","inftype"]
 
 ITEM_PIPELINES = {
