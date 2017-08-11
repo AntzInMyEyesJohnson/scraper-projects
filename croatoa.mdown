@@ -1,0 +1,435 @@
+Rule 1: 3 types of posts are allowed.
+Trustworthy News: Investigative journalism from trustworthy news outlets and/or trustworthy journalists  
+Currently Trustworthy News Outlets: OANN, True Pundit, InfoWars, The Gateway Pundit, The Intercept
+Under Review News Outlets: The Atlantic, The Daily Caller, Brietbart, Zero-Hedge, Local News Outlets(currently banned for now)
+Currently Trustworthy Journalists and News Field Experts: Lou Dobbs, Liz Wheeler, Sean Hannity, Steve Pieczenik, Tucker Carlson, Paul Joseph Watson, Jack Posobiec, Lauren Southern, Dr Jerome Corsi, Roger Stone, David Knight, Millie Weaver, Alex Jones, Owen Shroyer, Mike Cernovich
+Under Review Journalists and News Field Experts: Mike Dinow, Lilia Fifield, Jennifer Franco, Patrick Hussion, Stephanie Myers, Pearson Sharp, Brie Thiele, Greta Wall, Steve Watson, Adan Salazar, Kit Daniels, Mikael Thalen, Anthony Gucciardi, Rob Dew, Lee Ann Mcadoo, Jon Bowne, Clifford Cunningham, Jamie White, Dan Lyman, Robert F Kennedy Jr, Jon Rappoport  
+
+Primary Sources: First-hand account without any interpretation or middle man
+Verified Primary Sources: Wikileaks(cryptographically verified emails, cryptographically verified cables), first-hand video(speeches, hearings, events, attacks etc), first-hand documents(words written first-hand)
+Close to Verified Primary Sources: Police reports, federal documents(laws, regulations, tax forms, signed contracts), first-hand metadata(location tracking and time based event matching using verified primary sources above)
+Rabbit Hole Research: Score based scandal confirmations(still ironing out score metric) based on number of connections and reputablity of each connection
+Current Rabbit Holes: The Awan brothers spy ring, fast and furious government drug running, Bilderberg, global pedophile rings, human trafficking rings, Seth Rich dnc leaks, organ harvesting rings, and more to come.
+
+Rule 2: No narrative pushing media.
+Untrustworthy News: News outlets and/or journalists that purposely decieve.
+Untrustworthy actions: Push Trump-Russia collusion, race-bait, collude with untrustworthy politicians, collude with NGOs, collude with intel agencies, collude with untrustworthy government agencies, collude with untrustworthy politicians, collude with lobbyists, collude with banks, collude with global organizations/corporations, push war with confirmed trustworthy journalists or news outlets, protect pedophiles by under reporting related arrests, promoting it, protect islam by hiding names, pictures, or quotes that were purportedly used (allah akbar)
+Untrustworthy News Outlets: CNN, NBC, CBS, MSNBC, FOX, ABC, WaPo, NyTimes, Snopes, Independent, CorrectTheRecord, ShareBlue, MediaMatters, Newsweek, ThinkProgress, Time, Salon, Bloomberg, Vox, GQ, Buzzfeed
+Untrustworthy Journalists and News Field Experts: Cecilia Vega, David Muir, Diane Sawyer, George Stephanoplous, Jon Karl, John Heillman, Mark Halperin, Norah ODonnell, Vicki Gordon, Brianna Keilar, David Chalian, Gloria Borger, Jeff Zeleny, John Berman, Kate Bouldan, Mark Preston, Chris Cuomo, Sam Fiest, Jackie Kucinich, Mike Feldman, Whitney Snyder, Betsy Fisher Martin, Alex Wagner, Beth Fouhy, Phil Griffin, Rachel Maddow, Rachel Racusen, Savannah Gutherie, Ryan Liza, Amy Chozik, Gail Collins, Jonathan Martin, Maggie Haberman, Pat Healey, Sandra Sobieraj Westfall, Glenn Thrush, Mike Allen, Alyssa Mastramonoco, Jon Allen, David Brock, Mo Ellithee, Judd Legum, John Podesta, Joel Johnson, Chris Hayes, Chris Mathews, April Ryan, Wolf Blitzer, Dan Balz, Mike Feldman, Karen Tumulty, Megan Kelly, John King, Charlie Rose, Robin Sproul
+  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-s6z2{text-align:center}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-hgcj{font-weight:bold;text-align:center}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-hgcj">Trustworthy<br></th>
+    <th class="tg-hgcj">Reviewing</th>
+    <th class="tg-hgcj">Untrustworthy</th>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">OANN</td>
+    <td class="tg-s6z2">The Atlantic</td>
+    <td class="tg-s6z2">CNN</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">True Pundit</td>
+    <td class="tg-s6z2">The Daily Caller</td>
+    <td class="tg-s6z2">NBC</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">InfoWars</td>
+    <td class="tg-s6z2">Brietbart</td>
+    <td class="tg-s6z2">CBS</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">The Gateway Pundit</td>
+    <td class="tg-s6z2">Zero-Hedge</td>
+    <td class="tg-s6z2">MSNBC</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">The Intercept</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">FOX</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">ABC</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">WaPo</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">NyTimes</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Snopes</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Independent</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">CorrectTheRecord</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">ShareBlue</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">MediaMatters</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Newsweek</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">ThinkProgress</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Time</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Salon</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Bloomberg</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Vox</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">GQ</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Buzzfeed</td>
+  </tr>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-s6z2{text-align:center}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-hgcj{font-weight:bold;text-align:center}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 434px">
+<colgroup>
+<col style="width: 139px">
+<col style="width: 136px">
+<col style="width: 159px">
+</colgroup>
+  <tr>
+    <th class="tg-hgcj">Trustworthy</th>
+    <th class="tg-hgcj">Reviewing</th>
+    <th class="tg-hgcj">Untrustworthy</th>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Lou Dobbs<br></td>
+    <td class="tg-s6z2">Mike Dinow</td>
+    <td class="tg-s6z2">Cecilia Vega</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Liz Wheeler</td>
+    <td class="tg-s6z2">Lilia Fifield</td>
+    <td class="tg-s6z2">David Muir</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Sean Hannity</td>
+    <td class="tg-s6z2">Jennifer Franco</td>
+    <td class="tg-s6z2">Diane Sawyer</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Steve Pieczenik</td>
+    <td class="tg-s6z2">Patrick Hussion</td>
+    <td class="tg-s6z2">George Stephanoplous</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Tucker Carlson</td>
+    <td class="tg-s6z2">Stephanie Myers</td>
+    <td class="tg-s6z2">Jon Karl</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Paul Joseph Watson</td>
+    <td class="tg-s6z2">Pearson Sharp</td>
+    <td class="tg-s6z2">John Heillman</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Jack Posobiec</td>
+    <td class="tg-s6z2">Brie Thiele</td>
+    <td class="tg-s6z2">Mark Halperin</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Lauren Southern</td>
+    <td class="tg-s6z2">Greta Wall</td>
+    <td class="tg-s6z2">Norah ODonnell</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Dr Jerome Corsi</td>
+    <td class="tg-s6z2">Steve Watson</td>
+    <td class="tg-s6z2">Vicki Gordon</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Roger Stone</td>
+    <td class="tg-s6z2">Adan Salazar</td>
+    <td class="tg-s6z2">Brianna Keilar</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">David Knight</td>
+    <td class="tg-s6z2">Kit Daniels</td>
+    <td class="tg-s6z2">David Chalian</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Millie Weaver</td>
+    <td class="tg-s6z2">Mikael Thalen</td>
+    <td class="tg-s6z2">Gloria Borger</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Alex Jones</td>
+    <td class="tg-s6z2">Anthony Gucciardi</td>
+    <td class="tg-s6z2">Jeff Zeleny</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Owen Shroyer</td>
+    <td class="tg-s6z2">Rob Dew</td>
+    <td class="tg-s6z2">John Berman</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">Mike Cernovich</td>
+    <td class="tg-s6z2">Lee Ann Mcadoo</td>
+    <td class="tg-s6z2">Kate Bouldan</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">Jon Bowne</td>
+    <td class="tg-s6z2">Mark Preston</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">Clifford Cunningham</td>
+    <td class="tg-s6z2">Chris Cuomo</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">Jamie White</td>
+    <td class="tg-s6z2">Sam Fiest</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">Dan Lyman</td>
+    <td class="tg-s6z2">Jackie Kucinich</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Robert F Kennedy Jr</td>
+    <td class="tg-baqh">Mike Feldman</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"></td>
+    <td class="tg-s6z2">Jon Rappoport</td>
+    <td class="tg-s6z2">Whitney Snyder</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Betsy Fisher Martin</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Alex Wagner</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Beth Fouhy</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Phil Griffin</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Rachel Maddow</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Rachel Racusen</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Savannah Gutherie</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Ryan Liza</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Amy Chozik</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Gail Collins</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Jonathan Martin</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Maggie Haberman</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Pat Healey</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Sandra Sobieraj Westfall</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Glenn Thrush</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Mike Allen</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Alyssa Mastramonoco</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Jon Allen</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">David Brock</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Mo Ellithee</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Judd Legum</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">John Podesta</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Joel Johnson</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Chris Hayes</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Chris Mathews</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">April Ryan</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Wolf Blitzer</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Dan Balz</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Mike Feldman</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Karen Tumulty</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Megan Kelly</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">John King</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Charlie Rose</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Robin Sproul</td>
+  </tr>
+</table>
