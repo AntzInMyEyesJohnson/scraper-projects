@@ -1,0 +1,24 @@
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1462233600..1462492800&restrict_sr=on&sort=relevance&t=all&syntax=cloudsearch
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1462233600..1462492800&restrict_sr=on&sort=relevance&t=all&syntax=cloudsearch&count=25&after=t3_4hpuso
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1462233600..1462492800&restrict_sr=on&sort=relevance&t=all&syntax=cloudsearch&count=50&after=t3_4hvi2r
+1435363200 first post of the_donald
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1462233600..1462492800&sort=new&restrict_sr=on&t=all&syntax=cloudsearch&count=25&after=t3_4i0hhf
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1462233600..1462492800&sort=new&restrict_sr=on&t=all&syntax=cloudsearch
+
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1462233600..1462492800&sort=new&restrict_sr=on&t=all&syntax=cloudsearch&count=50&after=t3_4i0fdu
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1462233600..1462492800&sort=new&restrict_sr=on&t=all&syntax=cloudsearch&count=325&after=t3_4hzrs6
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1462233600..1462492800&sort=new&restrict_sr=on&t=all&syntax=cloudsearch&count=425&after=t3_4hzfdi
+
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1435363200..1497222523&sort=new&restrict_sr=on&t=all&syntax=cloudsearch&count=475&after=t3_6gkg1s
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1435363200..1497222523&sort=new&restrict_sr=on&t=all&syntax=cloudsearch&count=476&before=t3_6gkfo7
+
+current: 
+https://www.reddit.com/r/The_Donald/search?q=timestamp%3A1435363200..1450000000&sort=new&restrict_sr=on&t=all&syntax=cloudsearch
+
+
+
+
+
+https://github.com/alysivji/reddit-top-posts-scrapy/tree/master/reddit/spiders
+https://github.com/daviden1013/Reddit_crawler/blob/master/Reddit_general.py
+
