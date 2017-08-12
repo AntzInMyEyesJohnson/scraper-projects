@@ -1,6 +1,6 @@
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
-from stack.items import InfluencerItem
+from donald.items import InfluencerItem
 # from collections import deque
 
 
@@ -26,5 +26,4 @@ class InfluencerSpider(CrawlSpider):
                 item = InfluencerItem()
                 item['inftype'] = itypeh2 if itypeh2 != "Political leaning" else itypeh3[0]
                 item['infname'] = item_name.pop()
-                
                 yield item
